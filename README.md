@@ -1,22 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Oliveryfaso&fontSize=58&fontColor=ffffff&animation=twinkling" width="100%" alt="Oliveryfaso" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Oliveryfaso&fontSize=52&fontColor=ffffff&animation=twinkling" width="100%" alt="Oliveryfaso" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78166&center=true&vCenter=true&width=620&lines=Kindred+Spirits;AI+agent+tooling;Multi-agent+systems;Creative+coding" alt="Kindred Spirits" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F78166&center=true&vCenter=true&width=800&lines=Kindred+Spirits;AI+agent+tooling;Multi-agent+systems;Creative+coding" alt="Kindred Spirits" />
 
 <a href="https://github.com/Oliveryfaso"><img src="https://img.shields.io/badge/GitHub-Oliveryfaso-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/Oliveryfaso?tab=followers"><img src="https://img.shields.io/github/followers/Oliveryfaso?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0f766e" alt="Followers" /></a>
+<a href="https://github.com/Oliveryfaso?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FOliveryfaso&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&color=2563eb" alt="Repositories" /></a>
+<img src="https://img.shields.io/badge/Joined-2023-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Joined 2023" />
 
-<br><br>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Oliveryfaso&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveryfaso&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Oliveryfaso&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveryfaso&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<br>
-
-<img height="150" src="https://streak-stats.demolab.com?user=Oliveryfaso&theme=tokyonight&hide_border=true" alt="Commit streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=Oliveryfaso&theme=tokyonight&hide_border=true" alt="Commit streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Oliveryfaso&theme=tokyonight&utcOffset=8" alt="Commits by hour" />
 
 </div>
 
@@ -42,6 +39,7 @@ Pull requests into **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)**
 [#1672 upload error localization](https://github.com/THU-MAIC/OpenMAIC/pull/1672)
 
 <div align="center">
-<br>
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Oliveryfaso.visitor" alt="Visitors" />
+
 </div>
