@@ -12,9 +12,6 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Oliveryfaso&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveryfaso&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 
-<img height="180" src="https://streak-stats.demolab.com?user=Oliveryfaso&theme=tokyonight&hide_border=true" alt="Commit streak" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Oliveryfaso&theme=tokyonight&utcOffset=8" alt="Commits by hour" />
-
 </div>
 
 ## Toolbox
