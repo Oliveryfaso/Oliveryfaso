@@ -7,7 +7,7 @@
 <a href="https://github.com/Oliveryfaso"><img src="https://img.shields.io/badge/GitHub-Oliveryfaso-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/Oliveryfaso?tab=followers"><img src="https://img.shields.io/github/followers/Oliveryfaso?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0f766e" alt="Followers" /></a>
 <a href="https://github.com/Oliveryfaso?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FOliveryfaso&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&color=2563eb" alt="Repositories" /></a>
-<a href="https://github.com/Oliveryfaso/multi-agent-code-review-lab"><img src="https://img.shields.io/badge/14--day_cloners-143-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Unique cloners, last 14 days" /></a>
+<a href="https://github.com/Oliveryfaso/multi-agent-code-review-lab"><img src="https://img.shields.io/badge/14--day_clones-383-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Clones in the last 14 days" /></a>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Oliveryfaso&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveryfaso&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
@@ -34,9 +34,3 @@ Pull requests into **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)**
 [#1903 editor issue & thumbnail markers](https://github.com/THU-MAIC/OpenMAIC/pull/1903) ·
 [#1837 narration warning surfacing](https://github.com/THU-MAIC/OpenMAIC/pull/1837) ·
 [#1672 upload error localization](https://github.com/THU-MAIC/OpenMAIC/pull/1672)
-
-<div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Oliveryfaso.visitor" alt="Visitors" />
-
-</div>
