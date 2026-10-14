@@ -28,9 +28,18 @@
 
 ## Selected work
 
-- **[dsh-babel](https://github.com/Oliveryfaso/dsh-babel)** — let the DeepSeek Harness use MCP servers, plugins and slash commands from other AI coding harnesses, by reading their existing configuration instead of asking their authors to port.
-- **[multi-agent-code-review-lab](https://github.com/Oliveryfaso/multi-agent-code-review-lab)** — local-first multi-agent code review lab with evidence-first retrieval, CLI/Web workflows and SARIF output.
-- **[Agentic-Music-Studio](https://github.com/Oliveryfaso/Agentic-Music-Studio)** — agentic music production experiments.
+- **[dsh-babel](https://github.com/Oliveryfaso/dsh-babel)** — interop layer that lets the DeepSeek Harness use MCP servers, plugins and slash commands from other AI coding harnesses, by reading their existing configuration — and reporting honestly what runs, what needs a key, and what cannot run.
+- **[multi-agent-code-review-lab](https://github.com/Oliveryfaso/multi-agent-code-review-lab)** — local-first multi-agent code review lab: evidence-first retrieval, bound citations, budget accounting and SARIF output.
+- **[Motif Forge](https://github.com/Oliveryfaso/Agentic-Music-Studio)** — local-first agentic music workbench: LangGraph orchestration, human-in-the-loop review, deterministic music compilation and resumable runs.
+- **[Signal Field](https://github.com/Oliveryfaso/Signal_Chladni_Field)** — local-first automatic music-visual video creator · [live demo](https://oliveryfaso.github.io/Signal_Chladni_Field/)
+- **[Codex Cat Status](https://github.com/Oliveryfaso/codex-cat-status)** — a tiny macOS menu-bar companion that turns Codex Desktop's state into an animated pixel cat.
+
+## Contributing
+
+Pull requests into **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** (40.7k★):
+[#1903 editor issue & thumbnail markers](https://github.com/THU-MAIC/OpenMAIC/pull/1903) ·
+[#1837 narration warning surfacing](https://github.com/THU-MAIC/OpenMAIC/pull/1837) ·
+[#1672 upload error localization](https://github.com/THU-MAIC/OpenMAIC/pull/1672)
 
 <div align="center">
 <br>
