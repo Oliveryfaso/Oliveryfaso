@@ -7,7 +7,7 @@
 <a href="https://github.com/Oliveryfaso"><img src="https://img.shields.io/badge/GitHub-Oliveryfaso-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/Oliveryfaso?tab=followers"><img src="https://img.shields.io/github/followers/Oliveryfaso?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0f766e" alt="Followers" /></a>
 <a href="https://github.com/Oliveryfaso?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FOliveryfaso&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&color=2563eb" alt="Repositories" /></a>
-<img src="https://img.shields.io/badge/Joined-2023-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Joined 2023" />
+<a href="https://github.com/Oliveryfaso/multi-agent-code-review-lab"><img src="https://img.shields.io/badge/14--day_cloners-143-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Unique cloners, last 14 days" /></a>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Oliveryfaso&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveryfaso&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
@@ -22,8 +22,8 @@
 
 ## Selected work
 
-- **[dsh-babel](https://github.com/Oliveryfaso/dsh-babel)** — interop layer that lets the DeepSeek Harness use MCP servers, plugins and slash commands from other AI coding harnesses, by reading their existing configuration — and reporting honestly what runs, what needs a key, and what cannot run.
 - **[multi-agent-code-review-lab](https://github.com/Oliveryfaso/multi-agent-code-review-lab)** — local-first multi-agent code review lab: evidence-first retrieval, bound citations, budget accounting and SARIF output.
+- **[dsh-babel](https://github.com/Oliveryfaso/dsh-babel)** — interop layer that lets the DeepSeek Harness use MCP servers, plugins and slash commands from other AI coding harnesses, by reading their existing configuration — and reporting honestly what runs, what needs a key, and what cannot run.
 - **[Motif Forge](https://github.com/Oliveryfaso/Agentic-Music-Studio)** — local-first agentic music workbench: LangGraph orchestration, human-in-the-loop review, deterministic music compilation and resumable runs.
 - **[Signal Field](https://github.com/Oliveryfaso/Signal_Chladni_Field)** — local-first automatic music-visual video creator · [live demo](https://oliveryfaso.github.io/Signal_Chladni_Field/)
 - **[Codex Cat Status](https://github.com/Oliveryfaso/codex-cat-status)** — a tiny macOS menu-bar companion that turns Codex Desktop's state into an animated pixel cat.
