@@ -6,7 +6,6 @@
 
 <a href="https://github.com/Oliveryfaso"><img src="https://img.shields.io/badge/GitHub-Oliveryfaso-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/Oliveryfaso?tab=followers"><img src="https://img.shields.io/github/followers/Oliveryfaso?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0f766e" alt="Followers" /></a>
-<a href="https://github.com/Oliveryfaso?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FOliveryfaso&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&color=2563eb" alt="Repositories" /></a>
 <a href="https://github.com/Oliveryfaso/multi-agent-code-review-lab"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FOliveryfaso%2Fmulti-agent-code-review-lab%2Fbadge-data%2Ftraffic.json&query=%24.clones&label=TOTAL%20CLONES&color=2EA44F&style=for-the-badge&logo=github&logoColor=white" alt="Clones archived since 2026-09-30 (GitHub keeps only 14 days)" /></a>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Oliveryfaso&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
