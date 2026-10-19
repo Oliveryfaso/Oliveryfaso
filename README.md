@@ -27,21 +27,21 @@
 ## Toolbox
 
 <p>
-<strong>Agents</strong> &nbsp;
+<strong>Agents</strong><br />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
 <img src="https://img.shields.io/badge/LangChain_Core-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain Core" />
 <img src="https://img.shields.io/badge/MCP-181717?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
 </p>
 
 <p>
-<strong>Applications</strong> &nbsp;
+<strong>Applications</strong><br />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Node.js-417E38?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 <p>
-<strong>Data &amp; engineering</strong> &nbsp;
+<strong>Data &amp; engineering</strong><br />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -49,7 +49,7 @@
 </p>
 
 <p>
-<strong>Languages &amp; markup</strong> &nbsp;
+<strong>Languages &amp; markup</strong><br />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
