@@ -69,7 +69,7 @@
 
 ## Contributing
 
-Merged pull requests to public repositories owned by others, ordered by repository Stars (updated 2026-10-26).
+Merged pull requests to public repositories ordered by repository Stars (updated 2026-10-26).
 
 ### [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) · 41,442 ★
 
