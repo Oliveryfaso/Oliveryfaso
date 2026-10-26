@@ -69,7 +69,20 @@
 
 ## Contributing
 
-Pull requests into **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** (40.7k★):
-[#1903 editor issue & thumbnail markers](https://github.com/THU-MAIC/OpenMAIC/pull/1903) ·
-[#1837 narration warning surfacing](https://github.com/THU-MAIC/OpenMAIC/pull/1837) ·
-[#1672 upload error localization](https://github.com/THU-MAIC/OpenMAIC/pull/1672)
+Merged pull requests to public repositories owned by others, ordered by repository Stars (updated 2026-10-26).
+
+### [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) · 41,442 ★
+
+| Pull request | Merged (UTC+8) |
+| --- | --- |
+| [#1985 — fix(editor): defer narration markers until local audio is checked](https://github.com/THU-MAIC/OpenMAIC/pull/1985) | 2026-10-23 |
+| [#1953 — fix(editor): keep legacy narration markers stable across edits](https://github.com/THU-MAIC/OpenMAIC/pull/1953) | 2026-10-22 |
+| [#1903 — feat(editor): derive current course issues and thumbnail markers](https://github.com/THU-MAIC/OpenMAIC/pull/1903) | 2026-10-19 |
+| [#1672 — fix(workbench): localize material upload type and quota errors](https://github.com/THU-MAIC/OpenMAIC/pull/1672) | 2026-09-27 |
+
+### [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) · 20,710 ★
+
+| Pull request | Merged (UTC+8) |
+| --- | --- |
+| [#7812 — Add Oliveryfaso/dsh-pet-company](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/7812) | 2026-10-19 |
+| [#7514 — docs: add dsh-babel to tools catalog](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/7514) | 2026-10-17 |
