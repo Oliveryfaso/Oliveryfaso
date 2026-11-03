@@ -69,7 +69,7 @@
 
 ## Contributing
 
-Merged pull requests to public repositories ordered by repository Stars (updated 2026-10-26; OpenHands: 2026-11-03).
+Merged pull requests to public repositories ordered by repository Stars (updated 2026-11-03).
 
 ### [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) · 41.4k ★
 
