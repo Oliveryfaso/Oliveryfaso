@@ -69,7 +69,7 @@
 
 ## Contributing
 
-Merged pull requests to public repositories ordered by repository Stars (updated 2026-10-26).
+Merged pull requests to public repositories ordered by repository Stars (updated 2026-10-26; OpenHands: 2026-11-03).
 
 ### [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) · 41.4k ★
 
@@ -86,3 +86,9 @@ Merged pull requests to public repositories ordered by repository Stars (updated
 | --- | --- |
 | [#7812 — Add Oliveryfaso/dsh-pet-company](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/7812) | 2026-10-19 |
 | [#7514 — docs: add dsh-babel to tools catalog](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/7514) | 2026-10-17 |
+
+### [OpenHands/software-agent-sdk](https://github.com/OpenHands/software-agent-sdk) · 1.3k ★
+
+| Pull request | Merged (UTC+8) |
+| --- | --- |
+| [#6111 — fix(llm): preserve gpt-oss reasoning across tool calls](https://github.com/OpenHands/software-agent-sdk/pull/6111) | 2026-11-03 |
